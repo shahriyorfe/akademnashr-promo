@@ -1,0 +1,106 @@
+.site-header{
+  background-color: #fff;
+}
+.sitenav-link{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+ text-decoration: none;
+ color: #000;
+}
+.div-content{
+  width: 390;
+}
+.orange-line{
+width: 80px;
+height: 3px;
+background-color: #ff7500;
+}
+.sign-up{
+  background-color: #ff7500;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  color: #fff;
+}
+.hero-heading{
+  background-color:#252420;
+  width: 1440px;
+  height: 488px;
+color: #fff;
+}
+.book-img{
+  width: 510px;
+}
+.heading-name{
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 120%;
+letter-spacing: 0.5px;
+color: #FFFFFF;
+}
+.heading-p{
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.5px;
+color: #FFFFFF;
+}
+.feature{
+  width: 340px;
+}
+.feature-icon-wrapper{
+  width: 100px;
+  height: 100px;
+  background-color: rgba(255, 117, 0, 0,2);
+}
+.feature-title{
+  font-size: 24px;
+  line-height: 1.2;
+  letter-spacing: 00.5px;
+}
+.feature-info{
+  font-size: 16px;
+  line-height: 1.5;
+letter-spacing: 0.5px;
+}
+.promo{
+  background-color: #252420;
+  color: #fff;
+}
+.promo-content{
+  width: 440px;
+}
+
+
+.promo-heading{
+  font-size: 40px;
+  line-height: 48px;
+}
+.promo-tetx{
+  font-size: 16px;
+  line-height: 1.5;
+}
+.promo-higlight{
+color:#ff7500 ;
+}
+.promo-image{
+  width: 440px;
+  height: 440px;
+  object-fit: cover;
+}
+.site-footer{
+  background-color: #f8f8f8;
+
+
+
+
+}
